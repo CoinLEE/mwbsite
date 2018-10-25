@@ -35,9 +35,9 @@
     "path": "@PROJECT_PATH@",
     "siteFonts": [],
     "versionFirst": "4.7.6",
-    "uniqCompNum": 8,
+    "uniqCompNum": 15,
     "versionPublish": "4.8.6",
-    "favicon": "@PROJECT_PATH@/assets/images/bananas-128x72-1.png",
+    "favicon": "@PROJECT_PATH@/assets/images/1-128x96.png",
     "noImageResize": "",
     "screenshot": "screenshot.png"
   },
